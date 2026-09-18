@@ -1,0 +1,72 @@
+[
+  {
+    "id": "berry-slick",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-berry-slick.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-c66a90ac-bf68-42b2-ae59-dae6fd847276.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a glossy raspberry-red puddle with a small cluster of three round berries and two emerald leaves, very low and wide silhouette. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Berry Slick asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "acorn-bolt",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-acorn-bolt.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-b61f1abb-23f8-4953-8639-286a4cd61c06.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a streamlined golden-brown acorn projectile with a dark carved acorn cap, small ivory racing fins and one subtle turquoise exhaust ring. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Acorn Bolt asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "beet-seeker",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-beet-seeker.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-fd671080-d09e-4132-b5c1-2407ae3732a9.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a plum-purple beetroot homing rocket with a tapered root nose, three green leaf fins at the rear and a tiny amber seeker lens. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Beet Seeker asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "crown-comet",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-crown-comet.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-ccdce2f5-236c-42ac-aa74-93d7f2b07947.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a cobalt-blue comet orb wearing a tiny gold crown with five rounded tips, flowing cyan sculpted tail and two ivory rabbit-ear fins. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Crown Comet asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "carrot-turbo",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-carrot-turbo.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-46f7d796-fd2b-4261-8097-ab59350f4233.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a sculptural orange carrot boost capsule, tapered rounded body with shallow horizontal grooves and three strong green leaf blades. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Carrot Turbo asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "triple-carrot",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-triple-carrot.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-db2287b1-b370-4cb6-be9a-c90142ef5741.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: three small orange carrot boost capsules with green leaf blades in a triangular arrangement held by a thin turquoise orbital ring. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Triple Carrot asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "golden-carrot",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-golden-carrot.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-554cc17d-a011-467d-bf26-78435bb36529.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a lustrous golden carrot power-up with emerald leaf blades, a subtle faceted gold halo and sparkling polished edges. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Golden Carrot asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "lucky-clover",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-lucky-clover.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-8af30bc4-2df3-474a-8d3e-7d638348e2be.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: an emerald four-leaf clover charm with plump heart-shaped leaves, slender curved stem and a small warm gold center. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Lucky Clover asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "storm-bell",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-storm-bell.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-93b66ba5-4200-472a-b98a-862328c241a0.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a storm-blue and polished brass bell with an ivory lightning bolt emblem, rounded handle and luminous pale-blue clapper. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Storm Bell asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  },
+  {
+    "id": "burrow-bomb",
+    "mode": "built-in image_gen",
+    "reference": "art/references/item-burrow-bomb.png",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-6ca3c344-cf2a-4cc7-98f4-89a98777fc2b.png",
+    "prompt": "Use case: stylized-concept. Asset type: reference image for a Blender-authored kart racing game prop, Hareline Rally. Subject: a charcoal ceramic spherical cartoon bomb with a brass collar, short curled glowing fuse, two tiny rabbit-ear plates and a warm coral warning stripe. Premium animated-feature 3D look, appealing bold silhouette, sculpted rounded bevels, carefully differentiated satin ceramic, painted metal and glossy accents. The SINGLE Burrow Bomb asset shown twice: a large three-quarter hero view on the left and a smaller opposite rear view on the right, consistent proportions. Neutral warm gray studio background, soft contact shadows, warm key light and cool rim, readable construction, no scene decoration, no lettering, no logos, no watermarks. Reference for efficient low-poly 3D modeling; use geometric sculpted detail, not fuzzy surfaces. Square image."
+  }
+]

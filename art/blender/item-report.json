@@ -1,0 +1,42 @@
+{
+  "berry-slick": {
+    "triangles": 1152,
+    "bytes": 43788
+  },
+  "acorn-bolt": {
+    "triangles": 1552,
+    "bytes": 54892
+  },
+  "beet-seeker": {
+    "triangles": 1672,
+    "bytes": 59520
+  },
+  "crown-comet": {
+    "triangles": 2800,
+    "bytes": 97732
+  },
+  "carrot-turbo": {
+    "triangles": 1976,
+    "bytes": 66832
+  },
+  "triple-carrot": {
+    "triangles": 6312,
+    "bytes": 210056
+  },
+  "golden-carrot": {
+    "triangles": 2360,
+    "bytes": 79044
+  },
+  "lucky-clover": {
+    "triangles": 1440,
+    "bytes": 54856
+  },
+  "storm-bell": {
+    "triangles": 1616,
+    "bytes": 53868
+  },
+  "burrow-bomb": {
+    "triangles": 1840,
+    "bytes": 63020
+  }
+}

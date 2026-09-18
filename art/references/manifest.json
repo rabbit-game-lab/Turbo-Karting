@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kart-light",
+    "prompt": "Use case: stylized-concept. Asset type: production model reference for the original Hareline Rally 3D racing game. Primary request: design Pip Quicktail, a brave small ivory rabbit, huge expressive hazel eyes, peach ear interiors, vintage pilot goggles on forehead. Lightweight turquoise racing kart, coral pink accent trim, cream racing stripe, rounded open-wheel speedster monocoque, sculpted wheel fenders, rubber racing tyres and alloy five-spoke rims, leather bucket seat, visible steering wheel and pedals, twin polished exhaust. Carrot shaped embroidered flight-suit patch. Style: exceptionally polished high-end animated feature / premium stylized racing videogame, appealing sculpted shapes, carefully designed silhouette, tactile soft fur represented by smooth sculptural clumps not individual hair, enamel paint with controlled highlights, beautiful material contrast. Composition: clean 1536x1024 landscape model sheet on warm light gray studio backdrop, one LARGE front three-quarter complete character seated in kart occupying left 70%, one smaller side view on right. Orthographic-like camera, consistent design between views. Entire tyres and ear tips visible, grounded contact shadow. Bright soft studio key, cool rim, ambient occlusion. No scenery, no typography, no logos, no watermark, no weapons. This is an aspirational asset design to recreate in Blender with a mobile-friendly mesh; prioritize clear buildable forms over tiny noisy detail.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-53368e04-52a2-4239-9916-b02d07f7d1a8.png",
+    "reference": "art/references/kart-light.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "kart-medium",
+    "prompt": "Use case: stylized-concept. Asset type: production model reference for the original Hareline Rally 3D racing game. Primary request: design Juniper Jet, a medium-size confident warm tan rabbit, big amber eyes, pilot goggles. Athletic coral-orange roadster kart with gold accents, cream stripe, rounded aerodynamic monocoque, integrated side pods, compact rear wing, rubber grooved tyres and five-spoke alloy rims, leather bucket seat, visible steering wheel, polished dual exhaust. Tailored racing jumpsuit. Style: exceptionally polished high-end animated feature / premium stylized racing videogame, appealing sculpted shapes, carefully designed silhouette, tactile soft fur represented by smooth sculptural clumps not individual hair, enamel paint with controlled highlights, beautiful material contrast. Composition: clean 1536x1024 landscape model sheet on warm light gray studio backdrop, one LARGE front three-quarter complete character seated in kart occupying left 70%, one smaller side view on right. Orthographic-like camera, consistent design between views. Entire tyres and ear tips visible, grounded contact shadow. Bright soft studio key, cool rim, ambient occlusion. No scenery, no typography, no logos, no watermark, no weapons. This is an aspirational asset design to recreate in Blender with a mobile-friendly mesh; prioritize clear buildable forms over tiny noisy detail.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-54f47f56-926d-46d4-b2ae-73d3cefc7fb6.png",
+    "reference": "art/references/kart-medium.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "kart-heavy",
+    "prompt": "Use case: stylized-concept. Asset type: production model reference for the original Hareline Rally 3D racing game. Primary request: design Bruno Burrow, a sturdy broad warm brown rabbit with strong brows, friendly determined face, tall cream muzzle, green aviator goggles. Heavy emerald green rally kart with gold accents, chunky rounded rear wheel arches, substantial front bumper, broad rear wing, chromed roll hoop, thick rally tyres, gold alloy rims, dark bucket seat. Recognizably the same kart-racing universe, not a real automobile. Style: exceptionally polished high-end animated feature / premium stylized racing videogame, appealing sculpted shapes, carefully designed silhouette, tactile soft fur represented by smooth sculptural clumps not individual hair, enamel paint with controlled highlights, beautiful material contrast. Composition: clean 1536x1024 landscape model sheet on warm light gray studio backdrop, one LARGE front three-quarter complete character seated in kart occupying left 70%, one smaller side view on right. Orthographic-like camera, consistent design between views. Entire tyres and ear tips visible, grounded contact shadow. Bright soft studio key, cool rim, ambient occlusion. No scenery, no typography, no logos, no watermark, no weapons. This is an aspirational asset design to recreate in Blender with a mobile-friendly mesh; prioritize clear buildable forms over tiny noisy detail.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-55ef59bc-9f5c-4e2e-b0c1-28e308e85ca2.png",
+    "reference": "art/references/kart-heavy.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "landmark-meadow",
+    "prompt": "Use case: stylized-concept. Asset type: Blender environment modeling reference for Hareline Rally, original premium animated 3D rabbit kart racer. Design a grand finish-line festival gateway built from creamy painted timber and deep teal beams, tapered twin towers, brass finials, huge sculpted golden rabbit head-and-ears medallion at the top, black-and-ivory checkered hanging banner, salmon and gold pennants, rounded stone footings. A charming orchard windmill, an apple tree and flower planter shown smaller beside the main arch as matching modular prop references. One coherent hero object centered and fully visible, with 2-3 smaller complementary prop modules to its right, on a plain warm gray studio backdrop. Isometric three-quarter view, buildable simplified topology, rich tactile materials, high-end animated film art direction, sophisticated shape hierarchy, strong silhouette and ambient occlusion. No photoreal grime, no text, no UI, no vehicles, no watermark. Landscape composition 1536x1024. Warm key and cool fill. Intended for efficient mobile game meshes: big designed details, not tiny clutter.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-32246f93-4f56-42ba-a0ea-be9967dc25b3.png",
+    "reference": "art/references/landmark-meadow.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "landmark-desert",
+    "prompt": "Use case: stylized-concept. Asset type: Blender environment modeling reference for Hareline Rally, original premium animated 3D rabbit kart racer. Design a monumental natural sandstone arch spanning a 20 metre racing lane, clearly stratified ochre and terracotta rock walls with believable fractured planes and softly eroded edges, two saguaro cacti, timber-and-rope bridge support module and a sun-bleached route marker shown as smaller matching props. No surface across the arch opening, the kart road will be generated separately. One coherent hero object centered and fully visible, with 2-3 smaller complementary prop modules to its right, on a plain warm gray studio backdrop. Isometric three-quarter view, buildable simplified topology, rich tactile materials, high-end animated film art direction, sophisticated shape hierarchy, strong silhouette and ambient occlusion. No photoreal grime, no text, no UI, no vehicles, no watermark. Landscape composition 1536x1024. Warm key and cool fill. Intended for efficient mobile game meshes: big designed details, not tiny clutter.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-6cd83362-6ab1-4adc-ad36-c87508aeae3f.png",
+    "reference": "art/references/landmark-desert.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "landmark-snow",
+    "prompt": "Use case: stylized-concept. Asset type: Blender environment modeling reference for Hareline Rally, original premium animated 3D rabbit kart racer. Design twin monumental glacial cliffs flanking a 20 metre wide racing lane, faceted translucent-looking turquoise ice with deep blue crevasses, heavy powder snow caps, long narrow luminous stylized waterfalls descending down each cliff side, matching frosted fir and elevated bridge support modules beside them. OPEN center corridor, no bridge deck: the playable road and void are generated separately. One coherent hero object centered and fully visible, with 2-3 smaller complementary prop modules to its right, on a plain warm gray studio backdrop. Isometric three-quarter view, buildable simplified topology, rich tactile materials, high-end animated film art direction, sophisticated shape hierarchy, strong silhouette and ambient occlusion. No photoreal grime, no text, no UI, no vehicles, no watermark. Landscape composition 1536x1024. Warm key and cool fill. Intended for efficient mobile game meshes: big designed details, not tiny clutter.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-87485700-1557-49d5-89f0-0ed2ab69ae87.png",
+    "reference": "art/references/landmark-snow.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "landmark-neon",
+    "prompt": "Use case: stylized-concept. Asset type: Blender environment modeling reference for Hareline Rally, original premium animated 3D rabbit kart racer. Design an original rabbit-themed midnight-city race tunnel portal and 4 repeating ribs, dark navy brushed metal, elegant magenta and cyan luminous strips, angled bevelled architectural pillars, a rabbit-ear neon crest, chunky readable forms. Matching building facade with warm lit windows and elevated viaduct column as smaller prop modules beside it. Clear 20m wide open driving corridor, no road surface. One coherent hero object centered and fully visible, with 2-3 smaller complementary prop modules to its right, on a plain warm gray studio backdrop. Isometric three-quarter view, buildable simplified topology, rich tactile materials, high-end animated film art direction, sophisticated shape hierarchy, strong silhouette and ambient occlusion. No photoreal grime, no text, no UI, no vehicles, no watermark. Landscape composition 1536x1024. Warm key and cool fill. Intended for efficient mobile game meshes: big designed details, not tiny clutter.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-40f5a48d-03ae-4362-99c6-60a1ccd5c9d6.png",
+    "reference": "art/references/landmark-neon.png",
+    "runtime": null,
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "background-meadow",
+    "prompt": "Use case: stylized-concept. Asset type: actual runtime distant backdrop texture for a premium original animated 3D kart racing game. Create a WIDE 2:1 equirectangular-style environment panorama of sunlit rolling emerald orchard hills, tiny distant timber windmills with teal roofs, soft golden meadows, peach festival balloons far away, rounded cream clouds in a deep cyan sky. Warm optimistic late afternoon light. Only distant landscape and sky; absolutely no foreground objects, no racetrack, no characters, no vehicles, no UI or lettering. Horizon at approximately 60 percent from top, continuous horizontal composition, left and right ends with matching sky and low distant horizon for a convincing cylindrical wrap. Upper half is richly painted but uncluttered sky. Stylized high-end animated feature matte painting, lush painterly detail in distant silhouettes, strong atmospheric perspective, gentle gradients, polished art direction. This will be mapped to a distant sky dome behind real 3D objects, so no baked close perspective and no large focal object centered in the road. Image dimensions 2048 by 1024 if possible. No watermark.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-be7d2198-4b8b-4abf-a64c-a2a471349973.png",
+    "reference": "art/references/background-meadow.png",
+    "runtime": "public/assets/backgrounds/background-meadow.jpg",
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "background-desert",
+    "prompt": "Use case: stylized-concept. Asset type: actual runtime distant backdrop texture for a premium original animated 3D kart racing game. Create a WIDE 2:1 equirectangular-style environment panorama of spectacular faraway layered terracotta mesas and sandstone arches, ochre desert valleys, distant warm dust haze, crisp turquoise sky with wispy cream clouds. Cinematic warm sunlight and violet rock shadows. Only distant landscape and sky; absolutely no foreground objects, no racetrack, no characters, no vehicles, no UI or lettering. Horizon at approximately 60 percent from top, continuous horizontal composition, left and right ends with matching sky and low distant horizon for a convincing cylindrical wrap. Upper half is richly painted but uncluttered sky. Stylized high-end animated feature matte painting, lush painterly detail in distant silhouettes, strong atmospheric perspective, gentle gradients, polished art direction. This will be mapped to a distant sky dome behind real 3D objects, so no baked close perspective and no large focal object centered in the road. Image dimensions 2048 by 1024 if possible. No watermark.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-96af5089-d0ee-4443-a607-8587f1c739cb.png",
+    "reference": "art/references/background-desert.png",
+    "runtime": "public/assets/backgrounds/background-desert.jpg",
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "background-snow",
+    "prompt": "Use case: stylized-concept. Asset type: actual runtime distant backdrop texture for a premium original animated 3D kart racing game. Create a WIDE 2:1 equirectangular-style environment panorama of a spectacular distant alpine glacier valley, blue ice mountains, snowy pine forests on distant cliffs, silver frozen waterfalls, majestic white peaks, airy pale blue winter sky with soft clouds. Clear cool daylight, warm rim on peaks. Only distant landscape and sky; absolutely no foreground objects, no racetrack, no characters, no vehicles, no UI or lettering. Horizon at approximately 60 percent from top, continuous horizontal composition, left and right ends with matching sky and low distant horizon for a convincing cylindrical wrap. Upper half is richly painted but uncluttered sky. Stylized high-end animated feature matte painting, lush painterly detail in distant silhouettes, strong atmospheric perspective, gentle gradients, polished art direction. This will be mapped to a distant sky dome behind real 3D objects, so no baked close perspective and no large focal object centered in the road. Image dimensions 2048 by 1024 if possible. No watermark.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-98b9ce08-e13a-4f09-b6d8-f534e58ed8d7.png",
+    "reference": "art/references/background-snow.png",
+    "runtime": "public/assets/backgrounds/background-snow.jpg",
+    "mode": "built-in image_gen"
+  },
+  {
+    "id": "background-neon",
+    "prompt": "Use case: stylized-concept. Asset type: actual runtime distant backdrop texture for a premium original animated 3D kart racing game. Create a WIDE 2:1 equirectangular-style environment panorama of a spectacular distant whimsical midnight rabbit city skyline, navy art-deco towers with rabbit-ear roof silhouettes, warm amber windows, selective magenta and cyan signs with NO LETTERS, tiny lights, violet atmospheric depth, deep indigo starry sky. Beautiful controlled contrast, not blinding. Only distant landscape and sky; absolutely no foreground objects, no racetrack, no characters, no vehicles, no UI or lettering. Horizon at approximately 60 percent from top, continuous horizontal composition, left and right ends with matching sky and low distant horizon for a convincing cylindrical wrap. Upper half is richly painted but uncluttered sky. Stylized high-end animated feature matte painting, lush painterly detail in distant silhouettes, strong atmospheric perspective, gentle gradients, polished art direction. This will be mapped to a distant sky dome behind real 3D objects, so no baked close perspective and no large focal object centered in the road. Image dimensions 2048 by 1024 if possible. No watermark.",
+    "source": "/Users/faustorolandi/.codex/generated_images/01a06557-8c47-7cc3-8dee-41f327d8252c/exec-3fc2dad2-e7a3-4fdc-96c2-8e1a2250f971.png",
+    "reference": "art/references/background-neon.png",
+    "runtime": "public/assets/backgrounds/background-neon.jpg",
+    "mode": "built-in image_gen"
+  }
+]

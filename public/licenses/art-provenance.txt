@@ -1,0 +1,13 @@
+Hareline Rally — art provenance
+
+The GLB models in assets/blender are authored locally using the Blender recipes
+in tools/blender. Editable Blender scenes are retained in art/blender.
+The background images are generated with the built-in OpenAI image-generation
+tool; original files and prompts are retained in art/references/manifest.json.
+No third-party model, texture, audio, or font pack was downloaded for this art.
+
+This notice records provenance; it does not grant a new license or make a claim
+of copyright exclusivity for generated images.
+
+The project's behavioral reference and its MIT notice remain in the root
+THIRD_PARTY_NOTICES.md. No reference-game artwork was copied.

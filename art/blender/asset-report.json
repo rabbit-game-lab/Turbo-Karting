@@ -1,0 +1,14 @@
+{
+  "light": {
+    "triangles": 41488,
+    "bytes": 1019920
+  },
+  "medium": {
+    "triangles": 42052,
+    "bytes": 1024588
+  },
+  "heavy": {
+    "triangles": 42564,
+    "bytes": 1045408
+  }
+}

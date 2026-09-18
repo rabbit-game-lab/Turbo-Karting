@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hareline Rabbit lifecycle harness</title>
+<style>
+body{margin:0;background:#172638;color:#fff;font:14px system-ui}header{padding:10px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+button,select{font:inherit;padding:6px;background:#e8eadf;border:0;border-radius:6px}iframe{display:block;border:0;width:100vw;height:calc(100vh - 94px)}output{display:block;padding:8px}
+</style>
+<header>
+<label>Server <select id="server"><option value="5174">Development</option><option value="4173">Production preview</option></select></label>
+<button id="load">Load title</button>
+<button data-message="rabbit:pause" data-value="true">Studio pause</button>
+<button data-message="rabbit:pause" data-value="false">Studio resume</button>
+<button data-message="rabbit:restart">Studio restart</button>
+<button data-message="rabbit:mute" data-value="true">Studio mute</button>
+<button data-message="rabbit:mute" data-value="false">Studio unmute</button>
+</header>
+<output id="messages" aria-live="polite">Ready: 0 · Errors: 0</output>
+<iframe title="Hareline Rally" allow="autoplay; gamepad"></iframe>
+<script type="module">
+const frame=document.querySelector('iframe'),output=document.querySelector('#messages');
+let ready=0,errors=0;
+window.addEventListener('message',event=>{
+  if(event.source!==frame.contentWindow)return;
+  if(event.data?.type==='rabbit:ready')ready++;
+  if(event.data?.type==='rabbit:error')errors++;
+  output.textContent=`Ready: ${ready} · Errors: ${errors}`;
+});
+document.querySelector('#load').onclick=()=>{
+  ready=errors=0;
+  output.textContent='Ready: 0 · Errors: 0';
+  frame.src=`http://127.0.0.1:${document.querySelector('#server').value}/?benchmark=1`;
+};
+for(const button of document.querySelectorAll('[data-message]'))button.onclick=()=>{
+  const type=button.dataset.message,value=button.dataset.value==='true';
+  frame.contentWindow.postMessage({type,paused:value,muted:value},'*');
+};
+document.querySelector('#load').click();
+</script>
+</html>

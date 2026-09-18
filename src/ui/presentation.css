@@ -1,0 +1,69 @@
+/* Animation-festival presentation. No external fonts or bitmap downloads. */
+:root { --paper: #fff3d7; --ink: #20384c; }
+.title-screen { background: linear-gradient(90deg, #183344e8 0%, #193444bf 32%, #23495b00 68%); }
+.game-title { color: var(--paper); text-shadow: 0 7px 0 #244655, 0 15px 35px #142b3c55; letter-spacing: -.045em; }
+.game-title.outline { color: #ffc968; -webkit-text-stroke: 0; }
+.eyebrow { color: #98e1df; letter-spacing: .22em; }
+.slogan { max-width: 370px; color: #f5ead6; }
+.rabbit-button { border-radius: 12px; }
+.rabbit-button.primary { background: #ffd17a; color: #20384c; box-shadow: 0 5px 0 #c78745, 0 12px 28px #152d4e44; }
+.selection { background: linear-gradient(135deg,#163e52f5,#224b5ef5); }
+.racer-card { background: #fcf1d9; color: #243c51; border: 0; min-height: 150px; box-shadow: 0 6px 0 #0e273e55; }
+.racer-card:hover,.racer-card.selected,.racer-card:focus-visible { background: #fff9e9; }
+.racer-avatar { width: 110px; min-width: 94px; background: var(--racer); align-items: end; }
+.racer-avatar svg { width: 110px; height: 140px; filter: drop-shadow(0 5px 0 #23344525); }
+.racer-copy small { color: #62717e; }
+.class-tag { color: #587a7e; }
+.track-card { border: 0; box-shadow: 0 6px 0 #0e273e55; background: #fff1d8; color: #243c51; }
+.track-card:hover,.track-card.selected { background: #fff9e9; }
+.track-copy small { color: #62717e; }
+.track-art { overflow: hidden; position: relative; }
+.track-art::before,.track-art::after { display: none; }
+.track-art svg { width: 100%; height: 100%; object-fit: cover; }
+.track-number { z-index: 1; }
+.topbar { gap: 10px; }
+.quality-select { pointer-events: auto; background: #20384cd9; border: 1px solid #fff5; color: #fff3d7; border-radius: 20px; font: 700 11px system-ui; padding: 8px 12px; margin-left: 8px; }
+.during-race .quality-select { display: none; }
+.hud-place { font-size: clamp(44px,6vw,76px); }
+.hud-left { top: 10vh; }
+.hud-right { top: 10vh; }
+.hud-lap { color: #ffdd90; }
+.item-box { width: 96px; height: 88px; background: #20384cd9; border-color: #fff1cd99; }
+.item-glyph { display: none; }
+.item-icon { width: 55px; height: 55px; margin-top: -9px; }
+.item-icon svg { width: 100%; height: 100%; }
+.item-name { font-size: 8px; }
+.speed-number { font-size: clamp(40px,5vw,70px); }
+.minimap { width: 120px; height: 120px; border: 0; border-radius: 0; transform: none; background: none; bottom: 23vh; }
+.minimap svg { width: 100%; height: 100%; filter: drop-shadow(0 3px 4px #142b3caa); }
+.minimap path { fill: #17334533; stroke: #fff3d7bb; stroke-width: 7; stroke-linejoin: round; }
+.map-dot { width: 5px; height: 5px; margin: -2px; transition: none; }
+.map-dot.player { width: 9px; height: 9px; margin: -4px; }
+.results-screen { background: linear-gradient(90deg,#153b50ee,#1c405bc4); }
+.results-title { color: #ffd17a; filter: drop-shadow(0 6px 0 #173348); }
+.standing-row.player { background: #ffd17a; }
+.pause-panel { background: #203e54; box-shadow: 0 10px 0 #122a40; }
+@media(max-width:700px) {
+  .racer-avatar { min-width: 65px; width: 65px; }
+  .racer-avatar svg { width: 75px; height: 115px; }
+  .racer-card { min-height: 120px; }
+  .racer-copy { padding: 8px; }
+  .racer-copy strong { font-size: 14px; }
+  .quality-select { padding: 6px; font-size: 9px; }
+  .minimap { width: 88px; height: 88px; bottom: 25vh; right: 4vw; }
+  .hud-left,.hud-right { top: 10vh; }
+  .item-box { width: 76px; height: 75px; }
+  .item-icon { width: 45px; height: 45px; }
+}
+@media(max-height:480px) {
+  .hud-left,.hud-right { top: 15vh; }
+  .hud-place { font-size: 42px; }
+  .minimap { width: 75px; height: 75px; bottom: 28vh; }
+  .item-box { width: 70px; height: 64px; }
+  .item-icon { width: 38px; height: 38px; }
+}
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { animation: none!important; transition: none!important; } }
+@media(orientation:portrait) and (max-width:600px) {
+  .title-screen { padding-top: 12vh; background: linear-gradient(#183344bb 0%,#19344444 50%,transparent 75%); }
+  .slogan { margin: 25px 0 20px; }
+}
